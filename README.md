@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @designproco
-- 👀 I’m interested in front end dev
-- 🌱 I’m currently learning Shopify Liquid
-- 💞️ I’m looking to collaborate on front end dev projects
+- 👋 Hi, I’m @designproco, I help Mompreneurs scale their businesses. 
 - 📫 How to reach me contact@designproco.com
 
 <!---
